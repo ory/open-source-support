@@ -22,4 +22,4 @@ Ory Support will respond on a best-effort basis and work with customers to resol
 
 Ory Support for Business can be purchased on a yearly basis. The fee is paid up front and support for customers begins once payment is received.
 
-**Please contact [jared@ory.sh](mailto:jared@ory.sh?subject=Interested in ORY Support for Business&body=Hello Jared, we are interested in ORY Support for Business. Can+we set up a time to speak with you?) for your support needs and pricing details.**
+**Please contact [jared@ory.sh](mailto:jared@ory.sh?subject=Interested%20in%20Ory%20support%20for%20my%20business&body=Hi%20Jared%2C%0A%0AI%20am%20interested%20in%20speaking%20to%20you%20about%20a%20support%20offering%20for%20my%20business.%20Could%20we%20set%20up%20a%20time%20to%20speak%3F) for your support needs and pricing details.**

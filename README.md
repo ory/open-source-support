@@ -1,4 +1,4 @@
-# ORY Support for Business 
+# Ory Support for Business 
  
 Businesses wanting assistance above and beyond open source self service support have the option to buy Ory Support for Business. This support offering is for businesses who want to have support with:  
 * Initial set up and implementation of Ory products  

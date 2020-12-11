@@ -15,7 +15,7 @@ Businesses continue to have access to all Ory community knowledge bases includin
 
 Ory Support for Business also includes the added bonus of early access to and previews of selected new Ory offerings.
 
-Ory Support will respond on a best-effort basis and work with customers to resolve issues as quickly as possible. Ory technical personnel are located in CET and respond during normal business hours, M-F from 8 AM to 6 PM CET.
+Ory Support will respond on a best-effort basis and work with customers to resolve issues as quickly as possible. Ory technical personnel are located in CET and respond during normal business hours, Monday to Friday from 8 AM to 6 PM CET.
 
 Ory Support for Business can be purchased on a yearly basis. The fee is paid up front and support for customers begins once payment is received.
 
